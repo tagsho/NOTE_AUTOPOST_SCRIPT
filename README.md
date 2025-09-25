@@ -1,0 +1,2 @@
+# NOTE_AUTOPOST_SCRIPT
+Note自動投稿スクリプト
